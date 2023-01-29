@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'HTCSWebsite'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4C3CD44A513B4934BE2BDCD023DE11D1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2050FF546E54414BB5DC377ADBB76E8C }}
           package: .
